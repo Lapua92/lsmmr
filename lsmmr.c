@@ -1,7 +1,7 @@
 /*
 lsmmr.c - to make secure deletion for a file
 
-author : Yoghaswara Hadi Nugroho (@lapua92)
+author : Yoghaswara Hadi Nugroho (cymdle33)
 
 Description :
 lsmmr is tool for secure deletion , secure move , duplicate files.
